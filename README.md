@@ -1,2 +1,2 @@
 # Contador
-https://contadordoluis.netlify.app
+https://contadordoluis.netlify.app/
